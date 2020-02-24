@@ -1,0 +1,11 @@
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.exe
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.deps.json
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.runtimeconfig.json
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.runtimeconfig.dev.json
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.dll
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\bin\Debug\netcoreapp3.1\ConsoleCS.pdb
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.csprojAssemblyReference.cache
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.AssemblyInfoInputs.cache
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.AssemblyInfo.cs
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.dll
+D:\Other\Projects\ProjectCS\Lab_1\ConsoleCS\obj\Debug\netcoreapp3.1\ConsoleCS.pdb
